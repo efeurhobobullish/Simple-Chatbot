@@ -7,7 +7,7 @@ This project is a simple FAQ-style chatbot using Python and the ChatterBot libra
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/simple-chatbot.git
+    git clone https://github.com/efeurhobobullish/simple-chatbot.git
     ```
 
 2. Install dependencies:
